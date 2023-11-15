@@ -5,9 +5,9 @@ Ce projet Spring Boot vise à offrir des API(CRUD) pour la gestion des articles 
 
 # Les fonctionnalités principales 
 
-**- Gestion des Articles** : Création, lecture, mise à jour et suppression de filières.
+**- Gestion des Articles** : Création, lecture, mise à jour et suppression de catégories.
 
-**- Gestion des Catégories** : Ajout, récupération, mise à jour et suppression d'étudiants avec association à une filière.
+**- Gestion des Catégories** : Ajout, récupération, mise à jour et suppression d'une catégorie.
 
 # Les technoligies utilisés 
 
